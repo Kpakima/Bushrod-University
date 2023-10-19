@@ -6,7 +6,6 @@ console.log(navListEl)
 
 const navOpen = () => {
     navListEl.classList.toggle('show');
-    menuIconEl.innerHTML ={ <img src="./Icons/x svg/>"}
 }
 
 
